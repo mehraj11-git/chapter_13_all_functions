@@ -7,7 +7,7 @@
 # An iterator is used to iterate over the iterable objects like lists, strings, tuples, etc. 
 # in Python. On the iteration of an iterator, it returns each element one by one.
 # for ex :
-numbers = [1,2,3,4]     #iterables   (iterable objects like lists, strings, tuples, etc.) (!)
+numbers = [1,2,3,4]     #iterables   (iterable objects like lists, strings, tuples, etc.) (1)
 square = map(lambda a:a**2,numbers)    #iterator
 
 # for loop behind the scene 

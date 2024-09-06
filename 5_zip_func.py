@@ -14,5 +14,5 @@ print(list(zip(user_id,names))) #iterable (1)
 print(list(zip(user_id,names,last_names))) #(2)
 
 # (1) we can convert them in dict
-# (2) we cant convert them in dict bcz for dict key and value pair required but it has three 
+# (2) we can't convert them in dict bcz for dict key and value pair required but it has three 
 

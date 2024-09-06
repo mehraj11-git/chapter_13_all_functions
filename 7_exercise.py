@@ -34,6 +34,6 @@ print(anonymous([1,2,3],[4,5,6],[7,8,9]))
 # and then ypu have to sum devide by length
 
 
-# read the code 
+# how to read the code 
 # first we will check the func in this code we used lambda
 # we can see that there is a zip method and we use args method to unpack the list 

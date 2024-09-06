@@ -7,7 +7,7 @@ l = [(1,2),(3,4),(5,6),(7,8)]  #(1)
 # but we use *operator with zip mwthod
 
 print(list(zip(*l)))
-# we this code we will get only two tuples
+# with this code we will get only two tuples
 # now do like this
 l1,l2 =list(zip(*l))
 print(list(l1))

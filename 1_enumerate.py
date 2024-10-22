@@ -8,7 +8,7 @@ pos = 0
 for name in names:
     print(f"{pos}---->{name}")
     pos +=1
-# in this method first we make variable with 0 value and did loop 
+# in this method first we make variable with 0 value and start the loop 
 # print it and then increase the variable value
 
 # now with enumerate func
